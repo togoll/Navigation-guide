@@ -17,6 +17,7 @@ Navigation guide
   
 #### 算法
 [java-pearl](https://github.com/robertleepeak/java-pearl) 多年积累的基础算法
+
 [DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm) 数据挖掘18大算法实现以及其他相关经典DM算法
 [AlgoDS](https://github.com/sherxon/AlgoDS) Implementation of Algorithms and Data Structures, Problems and Solutions
 [Learn-Algorithm](https://github.com/Learn-Algorithm/Learn-Algorithm) 拖延症患者学习算法小分队
