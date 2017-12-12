@@ -3,7 +3,8 @@ Navigation guide
 
 
 ### 基础部分
-
+   core java,javaIO,NIO,多线程，JVM运行机制，内存管理，网络协议
+   
    [Awesome Java](https://github.com/akullpp/awesome-java)
    
    [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
@@ -67,3 +68,35 @@ jutils 通用的Java工具类主要包括基础工具类（时间、正则表达
 [Apache](https://github.com/Apache)
 
 [npm](https://github.com/npm)
+
+CDN,DNS业务，LVS集群配置
+### cache
+   nginx
+   squid
+### 监控软件
+   Zabbix
+   Cacti
+   nagios
+### 自动化工具
+    ansible
+    salt
+    puppet
+### 中间件服务
+   消息队列
+   分布式组件
+###
+   Hadoop 
+   Hbase
+   Hive
+   Zookeeper
+   spark Streaming
+   spark sql
+###
+   Flume
+   kafka
+   storm
+   Redis
+mapreduce,spark分布式数据存储，计算平台
+商业智能系统：ETL,数据仓库，OLAP开发
+设计模式：SOA面向服务架构
+   
