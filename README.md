@@ -5,8 +5,13 @@ Navigation guide
 ### 基础部分
 
    [Awesome Java](https://github.com/akullpp/awesome-java)
+   
+   [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
+   
    [Awesome](https://github.com/sindresorhus/awesome)
+   
    [Awesome-python](https://github.com/vinta/awesome-python)
+   
    [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
   
   #### 算法
